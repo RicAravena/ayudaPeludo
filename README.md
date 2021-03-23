@@ -1,4 +1,4 @@
-# ayudaPeludo
+# AyudaPeludo
 
  Una ONG “Ayuda a un peludo” que trabaja con la adopción de animales que viven en la calle, 
 necesita con urgencia que ustedes creen un sitio web que permita mostrar las fichas de cada uno 
