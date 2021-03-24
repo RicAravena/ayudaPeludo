@@ -3,6 +3,7 @@
  Una ONG “Ayuda a un peludo” que trabaja con la adopción de animales que viven en la calle, 
 necesita con urgencia que ustedes creen un sitio web que permita mostrar las fichas de cada uno 
 de los animalitos que están disponibles para su adopción.
+
 ● Las características para la página web son los siguientes:
 
 o Debe tener una página principal que contenga un título principal con la descripción de la 
